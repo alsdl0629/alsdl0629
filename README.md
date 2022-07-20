@@ -1,3 +1,5 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=300&section=header&text=Kangmin&fontSize=90&animation=twinkling" />
+
 <div align="center">
 
 ### HI, I'm KangMin 🤞
